@@ -56,7 +56,7 @@ tags:
 
 처음 작성한 코드
 
-```Java
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -125,7 +125,7 @@ N <= 20인 경우만 재귀 함수를 통해 수행 과정을 출력하도록 �
 
 수정한 코드
 
-```Java
+```java
 import java.util.Scanner;
 
 public class Main {
@@ -162,7 +162,7 @@ public class Main {
 
 재수정 코드
 
-```Java
+```java
 import java.math.BigInteger;
 import java.util.Scanner;
 
