@@ -1,9 +1,10 @@
 ---
 title: 백준 1914번 - 하노이 탑[골드 5](Java)
 date: 2024-10-04 20:39 +09:00
-categories: [백준, Java]
+categories: [알고리즘, Java]
 tags:
   [
+    알고리즘,
     백준,
     문제풀이,
     Java,
