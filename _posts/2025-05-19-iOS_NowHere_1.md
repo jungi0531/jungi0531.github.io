@@ -21,7 +21,7 @@ tags:
 
 이렇게 생각만 하다가 못 할 거 같아서 일단 저지르고 보자고 시작했다.
 
-![한번 해보죠](/assets/post_image/iOS_NowHere_1/Lets_Try.jpeg)
+![한번 해보죠](/assets/post_images/iOS_NowHere_1/Lets_Try.jpeg)
 
 
 ## 왜 iOS 앱 개발?
