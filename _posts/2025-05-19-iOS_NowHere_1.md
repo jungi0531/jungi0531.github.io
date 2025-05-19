@@ -21,7 +21,7 @@ tags:
 
 이렇게 생각만 하다가 못 할 거 같아서 일단 저지르고 보자고 시작했다.
 
-![Image](https://github.com/user-attachments/assets/e9ee74f9-5cf6-4de9-a71c-5dd896b01ea0)
+![한번 해보죠](/assets/post_image/iOS_NowHere_1/Lets_Try.jpeg)
 
 
 ## 왜 iOS 앱 개발?
@@ -62,9 +62,9 @@ tags:
 
 사실 이런 느낌으로 한 일주일 정도 앱을 만들어보았다.
 
-![Image](https://github.com/user-attachments/assets/ae96ab49-cb38-4864-8952-bc84786e95d2)
+### 앱 아이콘
 
-> 앱 아이콘
+![앱 아이콘](/assets/post_image/iOS_NowHere_1/App_Icon.png)
 
 이런 식으로 귀여운 캐릭터를 내세운 앱을 만들고 싶었고 약 일주일간 만들어 보았다.
 
@@ -74,29 +74,29 @@ tags:
 - 명상 수행 후 기록
 - 지금까지 명상 기록을 확인하는 통계 기능
 
-<img width="404" alt="Image" src="https://github.com/user-attachments/assets/b7076dbe-0c76-420c-8cbd-8f5671939976" />
+### 홈 화면
 
-> 홈 화면
+![홈 화면](/assets/post_image/iOS_NowHere_1/Home_View.png)
 
-<img width="405" alt="Image" src="https://github.com/user-attachments/assets/b5e793f4-a24c-4baf-af77-83b9251b3353" />
+### 명상 타이머 설정 화면
 
-> 명상 타이머 설정 화면
+![명상 타이머 설정 화면](/assets/post_image/iOS_NowHere_1/Timer_View.png)
 
-<img width="404" alt="Image" src="https://github.com/user-attachments/assets/1b976d9f-252e-43d7-b450-867a925118ea" />
+### 명상 수행 후 기록 화면
 
-> 명상 수행 후 기록 화면
+![명상 수행 후 기록 화면](/assets/post_image/iOS_NowHere_1/Record_View.png)
 
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/c7ea2f25-3d55-4ba0-894a-a060e4da22bf" />
+### 출석 캘린더 뷰
 
-> 출석 캘린더 뷰
+![출석 캘린더 뷰](/assets/post_image/iOS_NowHere_1/Calendar_View.png)
 
-<img width="403" alt="Image" src="https://github.com/user-attachments/assets/b7706e9d-0e8e-416c-bb9a-c21550792ca0" />
+### 통계 뷰
 
-> 통계 뷰
+![통계 뷰](/assets/post_image/iOS_NowHere_1/Statistic_View.png)
 
-<img width="398" alt="Image" src="https://github.com/user-attachments/assets/c5453902-f3bf-4e41-90a4-29dd968b3fa4" />
+### 기록 뷰
 
-> 기록 뷰
+![기록 뷰](/assets/post_image/iOS_NowHere_1/History_View.png)
 
 아직까지는 UI도 어설프고 특별한 기능도 없지만, 계속해서 개발해보고 앱 배포까지 해보는 게 내 목표다.
 
@@ -106,9 +106,9 @@ tags:
 
 스위프트에 대해 잘 몰라 그냥 짜는대로 코드를 짜고 폴더 분류도 안 하고 하다보니 나중에 뭘 수정하려고 하면 생각해보고 손 봐야할 부분이 많아져서 힘들었다.
 
-<img width="269" alt="Image" src="https://github.com/user-attachments/assets/f1fbbee6-4a79-4d67-81d6-52659b4f3b43" />
+### 현재 코드 구조 상황
 
-> 현재 코드 상황;
+![현재 코드 구조](/assets/post_image/iOS_NowHere_1/Code_Structure.png)
 
 마냥 코드 구조화가 중요하다고 하기에 그렇구나라고 생각했는데, 실제로 해보니 정말 중요하다고 느꼈다.
 
