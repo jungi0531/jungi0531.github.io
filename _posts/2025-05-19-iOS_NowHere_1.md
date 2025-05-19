@@ -19,9 +19,9 @@ tags:
 
 예전부터 앱 개발을 해보고 싶다고 막연히 생각하기만 했다.
 
-이렇게 생각만 하다가 못 할 거 같아서 일단 저지르고 보자고 시작했다.
+이렇게 생각만 하다가 못 할 거 같아서 일단 저질러보았다.
 
-![한번 해보죠](/assets/post_images/iOS_NowHere_1/Lets_Try.jpeg)
+![한번 해보죠](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Lets_Try.jpeg?raw=true)
 
 
 ## 왜 iOS 앱 개발?
@@ -64,7 +64,7 @@ tags:
 
 ### 앱 아이콘
 
-![앱 아이콘](/assets/post_images/iOS_NowHere_1/App_Icon.png)
+![앱 아이콘](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/App_Icon.png?raw=true)
 
 이런 식으로 귀여운 캐릭터를 내세운 앱을 만들고 싶었고 약 일주일간 만들어 보았다.
 
@@ -76,27 +76,27 @@ tags:
 
 ### 홈 화면
 
-![홈 화면](/assets/post_images/iOS_NowHere_1/Home_View.png)
+![홈 화면](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Home_View.png?raw=true)
 
 ### 명상 타이머 설정 화면
 
-![명상 타이머 설정 화면](/assets/post_image/iOS_NowHere_1/Timer_View.png)
+![명상 타이머 설정 화면](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Timer_View.png?raw=true)
 
 ### 명상 수행 후 기록 화면
 
-![명상 수행 후 기록 화면](/assets/post_images/iOS_NowHere_1/Record_View.png)
+![명상 수행 후 기록 화면](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Record_View.png?raw=true)
 
 ### 출석 캘린더 뷰
 
-![출석 캘린더 뷰](/assets/post_images/iOS_NowHere_1/Calendar_View.png)
+![출석 캘린더 뷰](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Calendar_View.png?raw=true)
 
 ### 통계 뷰
 
-![통계 뷰](/assets/post_images/iOS_NowHere_1/Statistic_View.png)
+![통계 뷰](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Statistic_View.png?raw=true)
 
 ### 기록 뷰
 
-![기록 뷰](/assets/post_images/iOS_NowHere_1/History_View.png)
+![기록 뷰](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/History_View.png?raw=true)
 
 아직까지는 UI도 어설프고 특별한 기능도 없지만, 계속해서 개발해보고 앱 배포까지 해보는 게 내 목표다.
 
@@ -108,7 +108,7 @@ tags:
 
 ### 현재 코드 구조 상황
 
-![현재 코드 구조](/assets/post_images/iOS_NowHere_1/Code_Structure.png)
+![현재 코드 구조](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_1/Code_Structure.png?raw=true)
 
 마냥 코드 구조화가 중요하다고 하기에 그렇구나라고 생각했는데, 실제로 해보니 정말 중요하다고 느꼈다.
 
@@ -125,3 +125,5 @@ tags:
 이런 것들이다.
 
 우선 코드 구조화부터 하고 나서 추가적으로 기능을 넣어보려고 한다.
+
+> Apple Developer Program 가입비 연간 129,000원... 당분간 밥은 공식당 돈까스다.
