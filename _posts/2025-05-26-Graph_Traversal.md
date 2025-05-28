@@ -1,5 +1,5 @@
 ---
-title: "그래프 탐색 알고리즘: DFS와 BFS"
+title: "[CS] 그래프 탐색 알고리즘: DFS와 BFS"
 date: 2025-05-27 10:30 +09:00
 categories: [CS, Algorithm]
 tags:

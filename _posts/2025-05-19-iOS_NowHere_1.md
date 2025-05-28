@@ -1,5 +1,5 @@
 ---
-title: "iOS 앱 개발 해보기: 지금여기(NowHere) 1"
+title: "[iOS] 앱 개발 해보기: 명상 기록 앱 지금여기(NowHere) 1"
 date: 2025-05-19 14:38 +09:00
 categories: [iOS, 지금여기]
 tags:
