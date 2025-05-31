@@ -81,9 +81,9 @@ App Store에 앱 이름으로 검색해보니 3 ~ 4번째 정도에 있었다.
 
 이름으로 검색해서 이정도지, '명상' 같은 키워드로 검색하면 아예 찾을 수가 없었다.
 
-![앱 스토어 1](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_2/5.png?raw=true)
+![앱 스토어 1](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_2/5.PNG?raw=true)
 
-![앱 스토어 2](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_2/6.png?raw=true)
+![앱 스토어 2](https://github.com/jungi0531/images/blob/main/blog_images/iOS_NowHere_2/6.PNG?raw=true)
 
 ---
 
