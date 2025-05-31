@@ -32,7 +32,7 @@ tags:
 1. 그래프 정보 입력 받기
 2. DFS와 BFS 구현하기
 
-```Java
+```java
 import java.io.*;
 import java.util.*;
 
